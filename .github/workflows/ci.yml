@@ -13,7 +13,7 @@ jobs:
       - run: npm install
         name: Install NodeJS modules
       - run: echo ok
-        name: Code Unit Tests
+        name: Code Unit Tests removed
       - run: echo ok
         name: Code Integration Tests
       - run: echo OK
